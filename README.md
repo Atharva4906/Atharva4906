@@ -1,17 +1,25 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmRyYXAycWVrem90ODh6Z3R3bmZ4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmRyYXAycWVrem90ODh6Z3R3bmZ4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFs_gif_by_id&ct=g/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+  
   <h1>Hi 👋, I'm Atharva Pardeshi</h1>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Web+Development+Explorer;AI+Student+at+VIT+Pune;Problem+Solver" alt="Typing SVG" />
+  </p>
+
   <h3>Passionate to learn about Data Science and Web development.</h3>
-  <h3>Currently in 2nd year , pursuing my B.Tech in Computer Science and Engineering in Artificial Intelligence at VIT Pune.</h3>
+  <h3>Currently in 2nd year, pursuing B.Tech in CSE (Artificial Intelligence) at VIT Pune.</h3>
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=atharva4906&label=Profile%20views&color=0e75b6&style=flat" />
   </p>
 </div>
 
 ---
-<h2>Language and Tools</h2>
 
-<h2>Programming Languages</h2>
+## Language and Tools
+
+## Programming Languages
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/> </a> &nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/> </a> &nbsp;&nbsp;
@@ -21,7 +29,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="60" height="60"/> </a> 
 </p>
 
-<h2>Data Science and Machine Learning</h2>
+## Data Science and Machine Learning
 <p align="left"> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60" height="60"/> </a> &nbsp;&nbsp;
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="60" height="60"/> </a> &nbsp;&nbsp;
@@ -32,7 +40,7 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60" height="60"/> </a> 
 </p>
 
-<h2>Web Development</h2>
+## Web Development
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60"/> </a> &nbsp;&nbsp;
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" width="60" height="60"/> </a> &nbsp;&nbsp;
@@ -45,7 +53,7 @@
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="60" height="60"/> </a> 
 </p>
 
-<h2>Tools and Databases</h2>
+## Tools and Databases
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/> </a> &nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60" height="60"/> </a> &nbsp;&nbsp;
@@ -58,11 +66,10 @@
 
 ---
 
-<h2>GitHub Stats</h2>
+## GitHub Metrics
 
 <p align="center">
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva4906&" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva4906&theme=radical" />
 </p> 
 
 ---
@@ -70,9 +77,12 @@
 ### Connect with me:
 <p align="left">
   <a href="https://www.leetcode.com/atharva4906" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="50" width="50" />
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/atharva-pardeshi4906" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:atharvapardeshi4906@gmail.com">
+    <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" height="50" width="50" />
   </a>
 </p>
