@@ -66,13 +66,18 @@
 
 ---
 
-## GitHub Metrics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva4906&theme=radical" />
-</p> 
+</p>  -->
 
----
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=atharva4906&theme=radical&hide_border=true" />
+</p> -->
+
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=atharva4906" />
+</p> -->
 
 ### Connect with me:
 <p align="left">
