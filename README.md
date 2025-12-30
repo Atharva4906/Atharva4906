@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmRyYXAycWVrem90ODh6Z3R3bmZ4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFs_gif_by_id&ct=g/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
   
-  <h1>Hi 👋, I'm Atharva Pardeshi</h1>
+  <h1>Myself Atharva Pardeshi</h1>
   
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Web+Development+Explorer;AI+Student+at+VIT+Pune;Problem+Solver" alt="Typing SVG" />
