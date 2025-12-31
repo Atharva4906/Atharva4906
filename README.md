@@ -70,9 +70,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva4906&theme=radical" />
 </p>  -->
 
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=atharva4906&theme=radical&hide_border=true" />
-</p> -->
 
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=atharva4906" />
