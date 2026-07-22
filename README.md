@@ -6,8 +6,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hello;Data+Science+Enthusiast;Web+Development+Explorer;AI+Student+at+VIT+Pune;Problem+Solver" alt="Typing SVG" />
   </p>
 
-  <h3>Passionate to learn about Data Science and Web development.</h3>
-  <h3>Currently in 2nd year, pursuing B.Tech in CSE (Artificial Intelligence) at VIT Pune.</h3>
+  <h3>Building strong backend and ML systems .</h3>
+  <h3></h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=atharva4906&label=Profile%20views&color=0e75b6&style=flat" />
