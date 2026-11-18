@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hello;Data+Science+Enthusiast;Web+Development+Explorer;AI+Student+at+VIT+Pune;Problem+Solver" alt="Typing SVG" />
   </p>
 
-  <h3>Building strong backend and ML systems with Mlops .</h3>
+  <h3>Building strong backend and ML systems</h3>
   <h3></h3>
 
   <p>
